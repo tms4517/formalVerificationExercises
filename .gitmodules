@@ -1,0 +1,9 @@
+[submodule "fsm"]
+	path = fsm
+	url = git@github.com:tms4517/fsmFormalVerification.git
+[submodule "frame"]
+	path = frame
+	url = git@github.com:tms4517/frameFormalVerification.git
+[submodule "busProtocol"]
+	path = busProtocol
+	url = git@github.com:tms4517/busProtocolFormalVerification.git
